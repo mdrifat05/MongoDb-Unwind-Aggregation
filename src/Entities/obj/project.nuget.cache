@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ea+gqm/uPIdn0piQHZroZLPvYyf7RZtAtuDOSW15y3zpZdnPXxcbutMMEXSOsi56Jai1kwbp1e0zE+fN/Dgt2Q==",
+  "success": true,
+  "projectFilePath": "E:\\projects\\MongoDemo\\src\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudipto.chowdhury\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\sudipto.chowdhury\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\sudipto.chowdhury\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
